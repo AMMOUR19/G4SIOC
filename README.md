@@ -14,6 +14,9 @@ git clone https://github.com/mathieuLacroix/G4SIOC.git
 ```
 
 Pour obtenir les nouveaux tps, taper dans le répertoire G4SIOC :
-```
+
+```bash
 ./updateDepot
-``` 
+```
+
+Cette mise-à-jour automatique se fait via le script `pull.py` provenant du projet [nbgitpuller](https://github.com/jupyterhub/nbgitpuller/).
