@@ -1,0 +1,3 @@
+#/usr/bin bash
+
+python pull.py https://github.com/mathieuLacroix/G4SIOC.git
