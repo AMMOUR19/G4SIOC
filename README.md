@@ -9,9 +9,26 @@ Contributeurs :
 
 
 Pour cloner le dépôt la première fois : 
-```
+```bash
 git clone https://github.com/mathieuLacroix/G4SIOC.git
 ```
+
+Pour lancer les notebooks julia :
+
+1. Ouvrir un terminal et exécuter les commandes suivantes :
+   ```bash
+   cd G4SIOC
+   julia
+   ```
+2. Exécuter le code julia suivant :
+   ```julia
+   using IJulia
+   notebook()
+   ```
+
+*Remarque :* le noyau (kernel) doit être julia1.2. Si le noyau spécifié est python, vous devez changer le noyau.
+
+
 
 Pour obtenir les nouveaux tps, taper dans le répertoire G4SIOC :
 
