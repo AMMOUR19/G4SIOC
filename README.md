@@ -1,6 +1,6 @@
 # TP d'initiation à Julia et JuMP
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mathieuLacroix/ROS4/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mathieuLacroix/G4SIOC/master)
 
 Ce dépôt contient les supports de TP pour le module d'OC de l'institut Galilée (2ème année).
 
